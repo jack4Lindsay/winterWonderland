@@ -1,5 +1,5 @@
 # winterWonderland
-Calm winter based game in which you play as an elf who interacts with his environment!
+Calm winter-based game in which you play as an elf who interacts with his environment!
 
 This game is still in development! Early early earrrrly version being released just to keep track of what is being done between versions.
 So, what has been done so far:
