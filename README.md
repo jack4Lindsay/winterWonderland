@@ -51,7 +51,7 @@ and click on it, but now you can continue running and click on whatever you desi
 
 Version 3:
 
-+ changed the window size so that it fits easier on any give screen. Before there were some problems with phrases showing
++ changed the window size so that it fits easier on any given screen. Before there were some problems with phrases showing
 up on the bottom of the screen but this is fixed now!
 + added another skin!
 + Made the map twice as large with twice as many objects within it!
