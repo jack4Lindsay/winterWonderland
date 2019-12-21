@@ -47,3 +47,12 @@ the right arrow key
 interactions, now this has been fixed so that as long as an object's phrase is present, it can't be interacted with.
 + Made interacting easier. Before, if you were going to interact with something, you'd most likely have to sit still
 and click on it, but now you can continue running and click on whatever you desire!
+
+
+Version 3:
+
++ changed the window size so that it fits easier on any give screen. Before there were some problems with phrases showing
+up on the bottom of the screen but this is fixed now!
++ added another skin!
++ Made the map twice as large with twice as many objects within it!
++ Made it a little easier to get certain achievements \ skins
