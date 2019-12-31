@@ -60,7 +60,8 @@ up on the bottom of the screen but this is fixed now!
 
 Version 4:
 
-+ source code is now included for all you programmers (or just curious peeps) in the "src" folder
++ source code is now included for all you programmers (or just curious peeps) in the "src" folder. The program is not
+dependent in these files, so you can do with them what you will!
 + added a few new entities, with a new type that runs away if you click on them and you're close enough! There is
 also a new feature - when a rare entity is spawned, a message will appear saying "Something magical happened!"
 + changed the random replacement algorithm to compensate for new creatures
