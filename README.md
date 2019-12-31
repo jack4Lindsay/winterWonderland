@@ -56,3 +56,11 @@ up on the bottom of the screen but this is fixed now!
 + added another skin!
 + Made the map twice as large with twice as many objects within it!
 + Made it a little easier to get certain achievements \ skins
+
+
+Version 4:
+
++ added a few new entities, with a new type that runs away if you click on them and you're close enough! There is
+also a new feature - when a rare entity is spawned, a message will appear saying "Something magical happened!"
++ changed the random replacement algorithm to compensate for new creatures
++ added new skins once again!
