@@ -33,7 +33,7 @@ VERSION UPDATE NOTES:
 
 
 
-Version 2:
+Beta Version 2:
 
 + Added goblins! Sit still until you get close enough, then they chase after you!
 + Made skin selecting easier, now you can use both the left and right arrow keys to switch between skins not just
@@ -49,7 +49,7 @@ interactions, now this has been fixed so that as long as an object's phrase is p
 and click on it, but now you can continue running and click on whatever you desire!
 
 
-Version 3:
+Beta Version 3:
 
 + changed the window size so that it fits easier on any given screen. Before there were some problems with phrases showing
 up on the bottom of the screen but this is fixed now!
@@ -58,7 +58,7 @@ up on the bottom of the screen but this is fixed now!
 + Made it a little easier to get certain achievements \ skins
 
 
-Version 4:
+Beta Version 4:
 
 + source code is now included for all you programmers (or just curious peeps) in the "src" folder. The program is not
 dependent in these files, so you can do with them what you will!
@@ -66,3 +66,10 @@ dependent in these files, so you can do with them what you will!
 also a new feature - when a rare entity is spawned, a message will appear saying "Something magical happened!"
 + changed the random replacement algorithm to compensate for new creatures
 + added new skins once again!
+
+
+Version 1:
+
++ Woo! Finally all packaed up in a .jar file. This is the first stable version of Winter Wonderland that doesn't have so
+many annoying folders that come with it, its all within!
++ Changed the structure of the code, source code is no longer included
