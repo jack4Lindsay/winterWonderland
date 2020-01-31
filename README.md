@@ -4,8 +4,7 @@ Calm winter-based game in which you play as an elf who interacts with his enviro
 This game is still in development! Early early earrrrly version being released just to keep track of what is being done between versions.
 So, what has been done so far:
 
-Player: moves around a world (WASD) and interacts with objects (clicking). You can switch between unlocked skins (right arrow button)
-which you obtain by completing unknown achievements! Finally, there is a save feature (V) that saves your progress and statistics to a file.
+Player: moves around a world (WASD) and interacts with objects (clicking). You can switch between unlocked skins (left \ right arrow buttons) which you obtain by completing unknown achievements! Finally, there is a save feature (V) that saves your progress and statistics to a file.
 
 Objects \ entities: Collision is detected on the top and bottom sides of each object, and layering is complete so that when the player is above
 an object it shows the object in front of the player. Each object, when hovered over with the mouse, shows an outline that confirms it's
