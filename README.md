@@ -22,8 +22,7 @@ Hopes for the future:
 - add more skins (only 8 as of now, 1 permeanently unlocked as the starting skin and 7 able to be unlocked)
 - music (being worked on!)
 
-NOTE: When you download the .zip file, extract it in a folder, because the .jar file needs the images+and+data folder in order to put the
-images on screen and also to read in your skin and statistics data. Over all else just make sure they're in the same place, whether it be on your desktop or in a folder.
+NOTE: When \ if you download the .zip file versions, extract it in a folder, because the .jar file needs the images+and+data folder in order to put the images on screen and also to read in your skin and statistics data. Over all else just make sure they're in the same place, whether it be on your desktop or in a folder.
 
 
 
