@@ -23,6 +23,10 @@ Hopes for the future:
 
 NOTE: When \ if you download the .zip file versions, extract it in a folder, because the .jar file needs the images+and+data folder in order to put the images on screen and also to read in your skin and statistics data. Over all else just make sure they're in the same place, whether it be on your desktop or in a folder.
 
+EXTRA SPECIAL NOTE: If the game does not open, you may need to download the Java Development Kit (JDK) that is distriuted for free by Oracle. These are the files that I use to make everything, so if the game doesn't have access to them then it will crash! Here's a link to Oracle's JDK download page (as of Jan. 2020):
+
+https://www.oracle.com/technetwork/java/javase/downloads/index.html
+
 
 
 
