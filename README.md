@@ -70,8 +70,13 @@ also a new feature - when a rare entity is spawned, a message will appear saying
 + added new skins once again!
 
 
-Version 1:
+Version 1.0:
 
 + Woo! Finally all packaed up in a .jar file. This is the first stable version of Winter Wonderland that doesn't have so
 many annoying folders that come with it, its all within!
 + Changed the structure of the code, source code is no longer included
+
+Version 1.2:
+
++ Had some trouble loading information from the text file in the .jar, decided to have it be outside the .jar, so place it within
+a folder and a .txt file should pop up with all of your saved player data!
