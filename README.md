@@ -78,5 +78,4 @@ many annoying folders that come with it, its all within!
 
 Version 1.2:
 
-+ Had some trouble loading information from the text file in the .jar, decided to have it be outside the .jar, so place it within
-a folder and a .txt file should pop up with all of your saved player data!
++ Had some trouble saving and loading information from the text file in the .jar, decided to have it be outside the .jar, so place it within a folder and a .txt file should pop up with all of your saved player data!
